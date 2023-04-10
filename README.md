@@ -44,11 +44,11 @@ Bu, algoritmanın en kötü durumda n^2 adım atabileceği anlamına gelir. En i
 
 Verilen diziyi Selection Sort algoritması kullanarak sıralamak istediğimizde ilk 4 adım şu şekilde olacaktır:
 
-1.[7, 3, 5, 8, 2, 9, 4, 15, 6] -> En küçük eleman 2 olduğu için 2 ile ilk elemanı yer değiştir.
- [2, 3, 5, 8, 7, 9, 4, 15, 6]
+1. [7, 3, 5, 8, 2, 9, 4, 15, 6] -> En küçük eleman 2 olduğu için 2 ile ilk elemanı yer değiştir.
+   [2, 3, 5, 8, 7, 9, 4, 15, 6]
 
-2.[2, 3, 5, 8, 7, 9, 4, 15, 6] -> En küçük eleman 3 olduğu için 3 ile 2. elemanı yer değiştir.
-  [2, 3, 5, 8, 7, 9, 4, 15, 6]
+2. [2, 3, 5, 8, 7, 9, 4, 15, 6] -> En küçük eleman 3 olduğu için 3 ile 2. elemanı yer değiştir.
+   [2, 3, 5, 8, 7, 9, 4, 15, 6]
 
 3. [2, 3, 5, 8, 7, 9, 4, 15, 6] -> En küçük eleman 4 olduğu için 4 ile 3. elemanı yer değiştir.
    [2, 3, 4, 8, 7, 9, 5, 15, 6]
